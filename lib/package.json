@@ -11,7 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "react-native-markdown-view": "^1.0.0"
+    "react-native-markdown-package": "https://github.com/Krunal-K-SimformSolutions/react-native-markdown-package.git#a2ce2cb44f3230d9551acfb5f4036541bd86659e"
   },
   "devDependencies": {
     "jest": "20.0.4"
